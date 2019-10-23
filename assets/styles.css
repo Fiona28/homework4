@@ -1,0 +1,47 @@
+#menubar {
+	height: 105px;
+	background-color: #b300b3;
+}
+
+#logo {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	background-color: #660066;
+	position: absolute;
+	top: 60px;
+	left: 60px;
+}
+
+#logoimg {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#mainbody {
+	height: 500px;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+#article {
+	height: 500px;
+	width: 700px;
+	margin: 0px auto;
+	padding: 40px 0px 40px 0px; 
+	background-color: #b3f0ff;
+	border-radius: 10% 0% 10% 0%;
+}
+
+#articleimg {
+	width: 580px;
+	height: 100px;
+	margin-bottom: 20px;
+	margin-left: 60px;
+}
+
+#title {
+	margin-left: 100px;
+	margin-bottom: 20px;
+	font-size: 25px;
+}
